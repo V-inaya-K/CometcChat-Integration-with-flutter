@@ -1,4 +1,4 @@
-# 🍦 CometChat UI kit integration in flutter Task 
+# 🍦 CometChat UI kit integration in flutter
 
 ![Animated GIF](https://i.gifer.com/J4o.gif)
 
